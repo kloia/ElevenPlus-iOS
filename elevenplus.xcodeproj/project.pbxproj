@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		14F647FB2C5D15E2009519DE /* elevenplusApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F647FA2C5D15E2009519DE /* elevenplusApp.swift */; };
+		14F647FB2C5D15E2009519DE /* ElevenplusApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F647FA2C5D15E2009519DE /* ElevenplusApp.swift */; };
 		14F647FD2C5D15E2009519DE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F647FC2C5D15E2009519DE /* ContentView.swift */; };
 		14F647FF2C5D15E4009519DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14F647FE2C5D15E4009519DE /* Assets.xcassets */; };
 		14F648022C5D15E4009519DE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14F648012C5D15E4009519DE /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		14F647F72C5D15E2009519DE /* elevenplus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = elevenplus.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		14F647FA2C5D15E2009519DE /* elevenplusApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = elevenplusApp.swift; sourceTree = "<group>"; };
+		14F647FA2C5D15E2009519DE /* ElevenplusApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElevenplusApp.swift; sourceTree = "<group>"; };
 		14F647FC2C5D15E2009519DE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		14F647FE2C5D15E4009519DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		14F648012C5D15E4009519DE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		14F647F92C5D15E2009519DE /* elevenplus */ = {
 			isa = PBXGroup;
 			children = (
-				14F647FA2C5D15E2009519DE /* elevenplusApp.swift */,
+				14F647FA2C5D15E2009519DE /* ElevenplusApp.swift */,
 				14F647FC2C5D15E2009519DE /* ContentView.swift */,
 				14F647FE2C5D15E4009519DE /* Assets.xcassets */,
 				14F648002C5D15E4009519DE /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				14F647FD2C5D15E2009519DE /* ContentView.swift in Sources */,
-				14F647FB2C5D15E2009519DE /* elevenplusApp.swift in Sources */,
+				14F647FB2C5D15E2009519DE /* ElevenplusApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
